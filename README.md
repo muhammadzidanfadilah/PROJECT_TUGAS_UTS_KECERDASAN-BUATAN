@@ -28,7 +28,8 @@ MATA KULIAH : KECERDASAN BUATAN
 
 # JURNAL : [PROJECT TUGAS UTS KECERDASAN BUATAN, .pdf](https://github.com/user-attachments/files/23415785/PROJECT.TUGAS.UTS.KECERDASAN.BUATAN.pdf)
 
-# DATASET : [train.csv](https://github.com/user-attachments/files/23416112/train.csv)
+# DATASET : [ujaran kebencian.csv](https://github.com/user-attachments/files/23416241/ujaran.kebencian.csv)
+
 
 
 
