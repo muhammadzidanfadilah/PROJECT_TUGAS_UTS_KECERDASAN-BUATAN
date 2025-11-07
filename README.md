@@ -27,3 +27,10 @@ MATA KULIAH : KECERDASAN BUATAN
 # CODINGAN : [PROJECT TUGAS UTS KECERDASAN BUATAN.ipynb](https://github.com/user-attachments/files/23414706/PROJECT.TUGAS.UTS.KECERDASAN.BUATAN.ipynb)
 
 # JURNAL : [PROJECT TUGAS UTS KECERDASAN BUATAN, .pdf](https://github.com/user-attachments/files/23415785/PROJECT.TUGAS.UTS.KECERDASAN.BUATAN.pdf)
+
+# DATASET : [train.csv](https://github.com/user-attachments/files/23416112/train.csv)id,label,tweet
+
+
+
+
+
