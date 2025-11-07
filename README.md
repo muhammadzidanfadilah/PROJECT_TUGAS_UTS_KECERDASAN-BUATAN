@@ -1,4 +1,4 @@
-# TUGAS_UTS_KECERDASAN-BUATAN 
+# PROJECT TUGAS UTS KECERDASAN BUATAN
 
 ~~~
 Nama  : Muhammad Zidan Fadillah
