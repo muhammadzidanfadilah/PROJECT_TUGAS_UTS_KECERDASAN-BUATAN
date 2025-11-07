@@ -1,4 +1,4 @@
-# TUGAS_UTS_KECERDASAN-BUATAN
+# TUGAS_UTS_KECERDASAN-BUATAN 
 
 ~~~
 Nama  : Muhammad Zidan Fadillah
@@ -19,3 +19,5 @@ Nim   : 312210276
 ~~~
 
 # CODINGAN : [TUGAS UTS KECERDASAN BUATAN.py](https://github.com/user-attachments/files/23412605/TUGAS.UTS.KECERDASAN.BUATAN.py)
+
+ 
